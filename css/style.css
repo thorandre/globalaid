@@ -950,13 +950,15 @@
 		#footer .copyright
 		{
 			margin-top: 3em;
-			font-size: 0.8em;
-			color: #aaa;
+			font-size: 0.6em;
+			color: #bbb;
 		}
 		
 			#footer .copyright a
 			{
 				color: inherit;
+				border-bottom: none;
+				font-size: 0.9em;
 			}
 			
 		#footer ul.icons
